@@ -1,12 +1,13 @@
 {
-  "name": "git-repo-from-scratch",
+  "name": "creating-a-git-repo-from-scratch",
   "version": "1.0.0",
-  "description": "",
+  "description": "Your project description",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "menameyoshi",
+  "license": "MIT"
 }
